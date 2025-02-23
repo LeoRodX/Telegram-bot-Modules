@@ -4,7 +4,7 @@ import telebot
 import json
 
 # Замените 'YOUR_BOT_TOKEN' на токен вашего бота
-bot = telebot.TeleBot('8199513220:AAGl09XIIqzpfF1zlJQIzAinT7tjic38e7c')
+bot = telebot.TeleBot('MY_TOKEN')
 
 # Имя файла для хранения данных
 USER_DATA_FILE = 'users.json'
